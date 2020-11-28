@@ -9,7 +9,7 @@ Bootstrap 4 framework, using a CSS style sheet and running the script to filter 
 ## Results
 
 When an indiviual first visits the website, all filtered searches are cleared and the table shows every single UFO sighting
-data point in the database. 
+data point in the database.
 ![alt text](https://github.com/jseverin1984/UFOs/blob/main/Resources/cleared_search_filter.png "cleared search field")
 
 When the user would like to make the UFO sightings more managable to look at or want to find specific sightings, they can
