@@ -3,7 +3,7 @@
 ## Overview
 
 The goal of this project was to create a functioning website that would allow the end user to search and filter through
-a larghe data set of UFO sightings and have it displayed in a table for easy consumption by the user. The website was built using
+the data set of UFO sightings and have it displayed in a table for easy consumption by the user. The website was built using
 Bootstrap 4 framework, using a CSS style sheet and running the script to filter our data set using JavaScript.
 
 ## Results
